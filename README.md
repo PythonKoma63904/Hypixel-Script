@@ -7,6 +7,11 @@ To be able to use this script yourself you need to do the following things:
 5. Install the Minescript modpack found here: https://www.curseforge.com/minecraft/mc-mods/minescript/files
 6. Put the .py file into the same path as the config.txt file
 7. Have all imports installed (if you dont use pip install)
+8. Start the script by typing \skyblock-mining
+
+
+VERY IMPORTANT!
+U must be outside of your island to be able to functionally use this script if you have fly on your island since the script automatically sets the user to No-Flying.
 
 
 Troubleshooting if import minescript is yellow underlined:
